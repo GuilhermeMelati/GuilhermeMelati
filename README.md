@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-  💌 Se você ama código vamos manter contato :D: ⤵️
+  💌 Se você ama código vamos manter contato :D ⤵️
 </p>
 
 <p align="left">
