@@ -2,8 +2,8 @@
 
 <p align="left"> 
   Olá amigos!<br>
-  Meu nome é Guilherme e atuo no desenvolvimento de soluções RPA e Data Science! <br>
-  Atualmente estou no 3° semestre de Gestão de TI na @FatecCampinas!<br>
+  Meu nome é Guilherme e atuo no desenvolvimento de soluções WEB e Data Science! <br>
+  Atualmente estou no 4° semestre de Gestão de TI na @FatecCampinas!<br>
 </p>
 
 <p align="left">
