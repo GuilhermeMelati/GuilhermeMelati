@@ -2,7 +2,7 @@
 <p align="left"> 
    Olá amigos!<br>
    Meu nome é Guilherme e atuo no desenvolvimento de soluções WEB e Data Science! <br>
-   Atualmente estou no 4° semestre de Gestão de TI na @FatecCampinas!<br>
+   Atualmente estou no 5° semestre de Gestão de TI na @FatecCampinas!<br>
 </p>
 <div>
 <h3 align="left">
