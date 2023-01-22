@@ -1,21 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left"> 
    Olá amigos!<br>
-   Meu nome é Guilherme e atuo no desenvolvimento de soluções WEB e Data Science! <br>
-   Atualmente estou no 6° semestre de Gestão de TI na @FatecCampinas!<br>
+   Meu nome é Guilherme e atuo no desenvolvimento de soluções WEB!<br>
 </p>
 <div>
 <h3 align="left">
    <strong>🛠️ Minhas Stacks</strong>
 </h3>
-<h4 align="left">
-   <strong>👨‍🔬 DataScience e Automação</strong>
-</h4>
-<div align="left">
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/>
-</div>
 <h4 align="left">
    <strong>🌐 Web</strong>
 </h4>
