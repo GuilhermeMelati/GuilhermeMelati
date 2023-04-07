@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left"> 
    Olá amigos!<br>
-   Meu nome é Guilherme e atuo no desenvolvimento de soluções WEB!<br>
+   Meu nome é Guilherme, sou formado em gestão da tecnologia da informação pela Fatec Campinas e atuo no desenvolvimento de soluções WEB!<br>
 </p>
 <div>
 <h3 align="left">
