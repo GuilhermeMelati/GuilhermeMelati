@@ -1,7 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 <p align="left"> 
-   Olá amigos!<br>
-   Meu nome é Guilherme, sou formado em gestão da tecnologia da informação pela Fatec Campinas e atuo no desenvolvimento de soluções WEB!<br>
+   Hey!<br>
 </p>
 <div>
 <h3 align="left">
@@ -61,7 +60,7 @@
    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
 </div>
 <h3 align="left">
-   💌 Se você ama código vamos manter contato :D ⤵️
+   💌 Contact Me :D ⤵️
 </h3>
 <p align="left">
    <a href="mailto:gtmelati@gmail.com?Subject=Ei%20Guilherme%21&Body=Escreva%20aqui%20sua%20mensagem%20de%20contato..." alt="Gmail">
