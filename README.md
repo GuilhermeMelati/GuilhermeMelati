@@ -1,11 +1,9 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<p align="left"> 
+
+<h2 align="left"> 
    Hey!<br>
-</p>
+</h2>
+<img src="https://media1.tenor.com/m/gZU3n_9Nv2EAAAAC/cat-cat-stare.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Cat">
 <div>
-<h3 align="left">
-   <strong>🛠️ Stacks</strong>
-</h3>
 <h4 align="left">
    <strong>🌐 Web</strong>
 </h4>
@@ -67,8 +65,4 @@
    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" /></a>
    <a href="https://www.linkedin.com/in/guilherme-melati/" alt="Linkedin">
    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
-   <a href="https://api.whatsapp.com/send?phone=5519987596434&text=Ei%20Guilherme%2C%20como%20vai%3F" alt="WhatsApp">
-   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519987596434&text=Ei%20Guilherme%2C%20como%20vai%3F"/></a>
-   <a href="https://www.instagram.com/melati.nho/" alt="Instagram">
-   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="/></a>
 </p>
